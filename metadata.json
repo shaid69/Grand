@@ -1,0 +1,6 @@
+{
+  "name": "Grand Riverview Hotel Rajshahi",
+  "description": "Rajshahi's premier 4-star luxury hotel on the banks of the Padma River featuring riverside suites, fine dining, rooftop infinity pool, and 4K cineplex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
